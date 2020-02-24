@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/thunderducky.github.io/deploy-this-app/static/css/main.d1b05096.chunk.css",
-    "main.js": "/thunderducky.github.io/deploy-this-app/static/js/main.a710ae92.chunk.js",
-    "main.js.map": "/thunderducky.github.io/deploy-this-app/static/js/main.a710ae92.chunk.js.map",
-    "runtime-main.js": "/thunderducky.github.io/deploy-this-app/static/js/runtime-main.cbcdf656.js",
-    "runtime-main.js.map": "/thunderducky.github.io/deploy-this-app/static/js/runtime-main.cbcdf656.js.map",
-    "static/js/2.7adcc3ad.chunk.js": "/thunderducky.github.io/deploy-this-app/static/js/2.7adcc3ad.chunk.js",
-    "static/js/2.7adcc3ad.chunk.js.map": "/thunderducky.github.io/deploy-this-app/static/js/2.7adcc3ad.chunk.js.map",
-    "index.html": "/thunderducky.github.io/deploy-this-app/index.html",
-    "precache-manifest.2c5c250629502d7ef208c23bb7a6f114.js": "/thunderducky.github.io/deploy-this-app/precache-manifest.2c5c250629502d7ef208c23bb7a6f114.js",
-    "service-worker.js": "/thunderducky.github.io/deploy-this-app/service-worker.js",
-    "static/css/main.d1b05096.chunk.css.map": "/thunderducky.github.io/deploy-this-app/static/css/main.d1b05096.chunk.css.map",
-    "static/js/2.7adcc3ad.chunk.js.LICENSE.txt": "/thunderducky.github.io/deploy-this-app/static/js/2.7adcc3ad.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/thunderducky.github.io/deploy-this-app/static/media/logo.5d5d9eef.svg"
+    "main.css": "/deploy-this-app/static/css/main.d1b05096.chunk.css",
+    "main.js": "/deploy-this-app/static/js/main.d2fc7be6.chunk.js",
+    "main.js.map": "/deploy-this-app/static/js/main.d2fc7be6.chunk.js.map",
+    "runtime-main.js": "/deploy-this-app/static/js/runtime-main.48140b3d.js",
+    "runtime-main.js.map": "/deploy-this-app/static/js/runtime-main.48140b3d.js.map",
+    "static/js/2.7adcc3ad.chunk.js": "/deploy-this-app/static/js/2.7adcc3ad.chunk.js",
+    "static/js/2.7adcc3ad.chunk.js.map": "/deploy-this-app/static/js/2.7adcc3ad.chunk.js.map",
+    "index.html": "/deploy-this-app/index.html",
+    "precache-manifest.9d9aade67ca179d6a15e5c1492c77ff2.js": "/deploy-this-app/precache-manifest.9d9aade67ca179d6a15e5c1492c77ff2.js",
+    "service-worker.js": "/deploy-this-app/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/deploy-this-app/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.7adcc3ad.chunk.js.LICENSE.txt": "/deploy-this-app/static/js/2.7adcc3ad.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/deploy-this-app/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.cbcdf656.js",
+    "static/js/runtime-main.48140b3d.js",
     "static/js/2.7adcc3ad.chunk.js",
     "static/css/main.d1b05096.chunk.css",
-    "static/js/main.a710ae92.chunk.js"
+    "static/js/main.d2fc7be6.chunk.js"
   ]
 }
